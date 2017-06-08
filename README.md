@@ -63,17 +63,23 @@ Globe / TM / TNT
 * GT10 sendto 8855 + WATTPAD2 sendto 4545(x3) = 3day's with 2GB data limit per day! // use network : TNT WATTPAD
 
 ## Account Credential's
+
 * You can view your Expiration date.
 * You can change your password.
 * You can reset you Account! if your are having Authentication failed in the app.
 
-### How to login?
-lets assume that this is your account. The required fields in the website in order to login is Email and Password, the format for your email is 'yourUsername_dg@gmail.com'
---Assumed Account--
-username: imhandsome
+### How to login
+
+lets assume that this is your account. The required fields in the website in order to login is Email and Password, the format for your email is "yourUsername_dg@gmail.com"
+
+
+ASSUMED ACCOUNT </br>
+username: imhandsome </br>
 password: 123456789
--------------------
+
 1. Go to this site     ->  https://cp.safecorevpn.com/login
-2. User your email     ->  imhandsome_dg@gmail.com
+2. Use your email     ->  imhandsome_dg@gmail.com
 3. Enter your password ->  123456789
+
+### Thank you for Reading! :) 
 
