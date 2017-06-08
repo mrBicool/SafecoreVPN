@@ -21,7 +21,7 @@ Globe / TM / TNT
 
 ### For Android
 1. Download this app -> [AndroidApp](https://www.mediafire.com/?4ssbsgsogc8m0kc)
-2. check for updates! update button is located within the app.
+2. check for updates! update button is located within the app and choose ONLINE. (paki hanap na lang)
 3. choose the appropriate type of connection that you will be using
 4. ask me for your account.
 5. ask me for available promo's for your network before connecting..
@@ -56,4 +56,7 @@ Globe / TM / TNT
 ## Available Promo's for network
 ### Globe
 ### TM
+* COC5 sendto 8080 + SULITXT5 sendto 8080 = 3day's unli surfing // use network : GLOBE/TM PROMO 1 or 2
 ### TNT
+* GT10 sendto 8855 + IG2 sendto 4545(x3) = 3day's with 2GB data limit per day! // use network : TNT INSTAGRAM
+* GT10 sendto 8855 + WATTPAD2 sendto 4545(x3) = 3day's with 2GB data limit per day! // use network : TNT WATTPAD
