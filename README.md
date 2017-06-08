@@ -47,3 +47,13 @@ Globe / TM / TNT
 6. Ask me for your account.
 7. Ask me for available promo's for your network before connecting..
 8. Cheeer's :)
+
+### Quick Download Link's for Pro
+1. Android -> [AndroidApp](https://www.mediafire.com/?4ssbsgsogc8m0kc)
+2. Ios -> [iosConfig](http://www.mediafire.com/file/c26591r8zlvtz2p/ios-safecore.rar)
+3. Pc -> [pcApp](https://www.mediafire.com/?yt6ad15c6tcuc5s)
+
+## Available Promo's for network
+### Globe
+### TM
+### TNT
