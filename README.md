@@ -17,6 +17,7 @@ Available promo for network </br>
 -[Tnt](#tnt) </br>
 [Account Credentials](#account-credentials) </br>
 [How to login in the website](#how-to-login) </br>
+[Basic TroubleShooting Guide](#basic-troubleshooting-guide)</br>
 
 **SafeCoreVPN** is a virtual private network that helps people to unblock, bypass network ISP censorship.
 
@@ -115,5 +116,6 @@ password: 123456789
 ( either na ipit ung account mo or expired na account mo. panu ba na iipit ung account ganito un. kapag nawawala bigla ung signal ng device or humihina , tendency nyan is nadidisconnect tayo sa device but ung status natin is still connected. so mag authentication fail ung login natin kasi online pa tayo sa server.)
 [ mag pa extend na ng account, switch server until makapasok papasok yan hnd pwedeng hnd.]
 
-### Thank you for Reading! :) 
+
+##### Thank you for Reading! :) 
 
