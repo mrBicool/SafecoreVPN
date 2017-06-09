@@ -21,16 +21,16 @@ Globe / TM / TNT
 ## Installation Instruction's
 
 ### For Android
-1. Download this app -> [Click me to Download](https://www.mediafire.com/?4ssbsgsogc8m0kc)
+1. Download this app -> [Click me to Download](https://www.mediafire.com/?k26dvvx428w19zb)
 2. check for updates! update button is located within the app and choose ONLINE. (paki hanap na lang)
 3. choose the appropriate type of connection that you will be using
 4. ask me for your account.
 5. ask me for available promo's for your network before connecting..
 6. Cheeer's :) 
 
-### IOS Phone / iPhone which is not your phone
+### For IOS Phone / iPhone
 1. Download OPENVPN and WINRAR or WinArchiver sa appstore
-2. Download this configuration by long pressing and open with safari browser -> [Long press me to Download](http://www.mediafire.com/file/c26591r8zlvtz2p/ios-safecore.rar)
+2. Download this configuration by long pressing and open with safari browser -> [Long press me to Download](http://www.mediafire.com/file/1uvlvtzp58fepp6/iosSafecore.rar)
 3. Long press the download button and choose open with Winrar or WinARchiver
 4. Choose the downloaded file and open it
 5. Choose your appropriate type of connection.
@@ -40,7 +40,7 @@ Globe / TM / TNT
 9. Cheeer's :)
 
 ### For Laptop/Desktop PC
-1. Download this app. [Click me to download](http://www.mediafire.com/file/nofor2ycmtgi7kt/Safecore+VPN+v2.10.zip)
+1. Download this app. [Click me to download](http://www.mediafire.com/file/egro4vxlvsks6ot/pcSafecore.zip)
 2. Extract nyo lng ang  na download nyong file. if hindi nyo ma extract download kayo winrar para ma extract.
 3. Install the "TAP" naka lagay sa loub ng driver folder
 4. Open safecore.exe
@@ -50,13 +50,13 @@ Globe / TM / TNT
 8. Cheeer's :)
 
 ### Quick Download Link's for Pro
-1. Android -> [AndroidApp](https://www.mediafire.com/?4ssbsgsogc8m0kc) </br>
+1. Android -> [AndroidApp](https://www.mediafire.com/?k26dvvx428w19zb) </br>
     * FOR SINGLE NETWORK CONNECTION </br>
     * [GLOBE/TM PROMO](http://www.mediafire.com/file/a04nb72b1rdrqxa/SafecoreVPN_GTM.apk) </br>
     * [TNT WATTPAD](http://www.mediafire.com/file/62sk7ac12y73b1u/SafecoreVPN_Wattpad.apk) </br>
     * [TNT INSTAGRAM](http://www.mediafire.com/file/4pdmdf2f505ffxf/SafecoreVPN_Instagram.apk) </br>
-2. Ios -> [iosConfig](http://www.mediafire.com/file/c26591r8zlvtz2p/ios-safecore.rar)
-3. Pc -> [pcApp](http://www.mediafire.com/file/nofor2ycmtgi7kt/Safecore+VPN+v2.10.zip)
+2. Ios -> [iosConfig](http://www.mediafire.com/file/1uvlvtzp58fepp6/iosSafecore.rar)
+3. Pc -> [pcApp](http://www.mediafire.com/file/egro4vxlvsks6ot/pcSafecore.zip)
 
 ## Available Promo's for network
 ### Globe
