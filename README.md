@@ -7,14 +7,14 @@ TABLE OF CONTENTS </br>
 [Network Provider Supported](#network-provider-supported) </br>
 [Recommended typ of cellular network](#recommended-type-of-cellular-network) </br>
 Installation Instruction </br>
-[for Android](#for-android) </br>
-[for Iphone](#for-ios-phone--iphone) </br>
-[for Pc](#for-laptopdesktop-pc) </br>
-[Quick download link for pro's](#quick-download-links-for-pro) </br>
+-[for Android](#for-android) </br>
+-[for Iphone](#for-ios-phone--iphone) </br>
+-[for Pc](#for-laptopdesktop-pc) </br>
+-[Quick download link for pro's](#quick-download-links-for-pro) </br>
 Available promo for network </br>
-[Globe](#globe) </br>
-[Tm](#tm) </br>
-[Tnt](#tnt) </br>
+-[Globe](#globe) </br>
+-[Tm](#tm) </br>
+-[Tnt](#tnt) </br>
 [Account Credentials](#account-credentials) </br>
 [How to login in the website](#how-to-login) </br>
 
