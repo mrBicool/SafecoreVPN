@@ -2,12 +2,21 @@
 <p align="center"> www.safecorevpn.com </p>
 
 ## A guide from a noob.
-Table of Contents
-[How it Work's](#how-it-works)
-[#network-provider-supported](#network-provider-supported)
-[#recommended-type-of-cellular-network](#recommended-type-of-cellular-network)
-[#installation-instructions](#installation-instructions)
-[#for-android](#for-android)
+TABLE OF CONTENTS </br>
+[How it Work's](#how-it-works) </br>
+[Network Provider Supported](#network-provider-supported) </br>
+[Recommended typ of cellular network](#recommended-type-of-cellular-network) </br>
+Installation Instruction </br>
+[for Android](#for-android) </br>
+[for Iphone](#for-ios-phone--iphone) </br>
+[for Pc](#for-laptopdesktop-pc) </br>
+[Quick download link for pro's](#quick-download-links-for-pro) </br>
+Available promo for network </br>
+[Globe](#globe) </br>
+[Tm](#tm) </br>
+[Tnt](#tnt) </br>
+[Account Credentials](#account-credentials) </br>
+[How to login in the website](#how-to-login) </br>
 
 **SafeCoreVPN** is a virtual private network that helps people to unblock, bypass network ISP censorship.
 
@@ -29,10 +38,12 @@ Globe / TM / TNT
 ### For Android
 1. Download this app -> [Click me to Download](https://www.mediafire.com/?k26dvvx428w19zb)
 2. check for updates! update button is located within the app and choose ONLINE. (paki hanap na lang)
-3. choose the appropriate type of connection that you will be using
-4. ask me for your account.
-5. ask me for available promo's for your network before connecting..
-6. Cheeer's :) 
+3. Select Server from the list.
+4. choose the appropriate type of connection that you will be using.
+5. choose the available promo for your network selection. [Network Promo List](#available-promos-for-network)
+6. ask me for your account.
+7. then connect
+8. Cheeer's :) 
 
 ### For IOS Phone / iPhone
 1. Download OPENVPN and WINRAR or WinArchiver sa appstore
@@ -40,10 +51,11 @@ Globe / TM / TNT
 3. Long press the download button and choose open with Winrar or WinARchiver
 4. Choose the downloaded file and open it
 5. Choose your appropriate type of connection.
-6. Choose Server and long press -> open with OpenVPN
-7. A username and password fields will appear, just ask me for your account.
-8. Ask me for available promo's for your network before connecting..
-9. Cheeer's :)
+6. Select Server from the list and long press -> open with OpenVPN
+4. choose the available promo for your network selection. [Network Promo List](#available-promos-for-network)
+5. ask me for your account.
+6. then connect
+7. Cheeer's :) 
 
 ### For Laptop/Desktop PC
 1. Download this app. [Click me to download](http://www.mediafire.com/file/egro4vxlvsks6ot/pcSafecore.zip)
@@ -51,9 +63,11 @@ Globe / TM / TNT
 3. Install the "TAP" naka lagay sa loub ng driver folder
 4. Open safecore.exe
 5. Select your appropriate connection type..
-6. Ask me for your account.
-7. Ask me for available promo's for your network before connecting..
-8. Cheeer's :)
+6. Select Server from the list.
+7. choose the available promo for your network selection.  [Network Promo List](#available-promos-for-network)
+8. ask me for your account.
+9. then connect
+10. Cheeer's :) 
 
 ### Quick Download Link's for Pro
 1. Android -> [AndroidApp](https://www.mediafire.com/?k26dvvx428w19zb) </br>
