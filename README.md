@@ -2,6 +2,12 @@
 <p align="center"> www.safecorevpn.com </p>
 
 ## A guide from a noob.
+Table of Contents
+[How it Work's](#how-it-works)
+[#network-provider-supported](#network-provider-supported)
+[#recommended-type-of-cellular-network](#recommended-type-of-cellular-network)
+[#installation-instructions](#installation-instructions)
+[#for-android](#for-android)
 
 **SafeCoreVPN** is a virtual private network that helps people to unblock, bypass network ISP censorship.
 
