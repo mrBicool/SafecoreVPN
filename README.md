@@ -105,5 +105,15 @@ password: 123456789
 2. Use your email     ->  imhandsome_dg@gmail.com
 3. Enter your password ->  123456789
 
+
+## Basic Troubleshooting Guide
+1. if either unkown proxy or waiting for server. 
+(possible problem is di kau naka register sa promo, wala kayong load, mali yung sim na naka on na data, if TNT wala pa kayong APN na nagawa)
+[ mag register sa promo{wait jofom if TM user}, dapat if anung sim selected un dn naka bukas na data,  if tnt gumawa ng APN para maka connect at mawala ung data limit]
+
+2. Authentication failure
+( either na ipit ung account mo or expired na account mo. panu ba na iipit ung account ganito un. kapag nawawala bigla ung signal ng device or humihina , tendency nyan is nadidisconnect tayo sa device but ung status natin is still connected. so mag authentication fail ung login natin kasi online pa tayo sa server.)
+[ mag pa extend na ng account, switch server until makapasok papasok yan hnd pwedeng hnd.]
+
 ### Thank you for Reading! :) 
 
