@@ -50,7 +50,11 @@ Globe / TM / TNT
 8. Cheeer's :)
 
 ### Quick Download Link's for Pro
-1. Android -> [AndroidApp](https://www.mediafire.com/?4ssbsgsogc8m0kc)
+1. Android -> [AndroidApp](https://www.mediafire.com/?4ssbsgsogc8m0kc) </br>
+    * FOR SINGLE NETWORK CONNECTION </br>
+    * [GLOBE/TM PROMO](http://www.mediafire.com/file/a04nb72b1rdrqxa/SafecoreVPN_GTM.apk) </br>
+    * [TNT WATTPAD](http://www.mediafire.com/file/62sk7ac12y73b1u/SafecoreVPN_Wattpad.apk) </br>
+    * [TNT INSTAGRAM](http://www.mediafire.com/file/4pdmdf2f505ffxf/SafecoreVPN_Instagram.apk) </br>
 2. Ios -> [iosConfig](http://www.mediafire.com/file/c26591r8zlvtz2p/ios-safecore.rar)
 3. Pc -> [pcApp](http://www.mediafire.com/file/nofor2ycmtgi7kt/Safecore+VPN+v2.10.zip)
 
