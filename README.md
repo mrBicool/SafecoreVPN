@@ -24,6 +24,9 @@ Available promo for network </br>
 **PAALALA.**
 once na member ka na ng safecore dapat po handa tayo tanggapin kung ano man ang mangyari(kasi walang forever di natin alam bukas wala na safecore) kasi hindi po ito legal connection. is it clear? kung hindi Clear pwede naman kayo mag Load at mag register sa surfing promo's nila o kaya mag pakabit ng PLDT.
 
+### How to Signup / Create an account?
+Visit this link and signup : [Click here](https://signup.safecorevpn.com/3vilsanta)
+
 ### How it Work's?
 
 Device with simCard -> SafecoreApp -> Internet 
